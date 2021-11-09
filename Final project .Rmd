@@ -19,7 +19,7 @@ Predictors of depression risk in older adults
 
 
 **The motivation for this project:**
-To identify predictors of negative mental health outcomes among older adults. 
+To identify predictors of negative mental health outcomes among older adults given that they are known to have higher risk of depression than the general population. 
 
 **The intended final products:**
 

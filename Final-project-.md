@@ -10,7 +10,8 @@ Onyeka Isamah (oi2142), Riddhi Thakkar (rt2640)
 adults
 
 **The motivation for this project:** To identify predictors of negative
-mental health outcomes among older adults.
+mental health outcomes among older adults given that they are known to
+have higher risk of depression than the general population.
 
 **The intended final products:**
 
