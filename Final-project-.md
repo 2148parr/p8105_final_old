@@ -6,10 +6,11 @@ Data Science - Final Project Proposal
 Ifrah Fayyaz (if2282), Lydia Parr (lcp2148), Lauren Cohen (lcc2181),
 Onyeka Isamah (oi2142), Riddhi Thakkar (rt2640)
 
-**The tentative project title:**
+**The tentative project title:** Predictors of depression risk in older
+adults
 
-**The motivation for this project:** We have an increasingly aging
-population
+**The motivation for this project:** To identify predictors of negative
+mental health outcomes among older adults.
 
 **The intended final products:**
 
@@ -19,7 +20,7 @@ population
 -   A 2-minute narrated screencast that illustrates our project
 
 **The anticipated data sources:** National Health and Aging Trends Study
-from Johns Hopkin’s and Westat
+from Johns Hopkins and Westat
 
 **The planned analyses / visualizations / coding challenges:**
 

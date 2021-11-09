@@ -19,7 +19,7 @@ Predictors of depression risk in older adults
 
 
 **The motivation for this project:**
-We have an increasingly aging population 
+To identify predictors of negative mental health outcomes among older adults. 
 
 **The intended final products:**
 
@@ -28,7 +28,7 @@ We have an increasingly aging population
 - A 2-minute narrated screencast that illustrates our project
 
 **The anticipated data sources:**
-National Health and Aging Trends Study from Johns Hopkin's and Westat 
+National Health and Aging Trends Study from Johns Hopkins and Westat 
 
 **The planned analyses / visualizations / coding challenges:**
 
